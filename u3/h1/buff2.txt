@@ -1,0 +1,891 @@
+atg 89 705
+ap 116 Teemo 101
+atg 116 2672
+ap 26 Evelynn 41
+ar 116 116 2333
+atg 26 4778
+atg 26 151
+qps
+qps
+qv 116 116 
+atg 116 7211
+dfg 26 9370
+atg 116 2247
+ar 116 116 157
+qbs
+ap 48 Kai'sa 84
+qps
+qps
+qps
+qps
+atg 116 4927
+qbs
+qbs
+ag 9703
+qbs
+qps
+qbs
+dfg 48 9975
+ar 26 48 371
+ar 48 116 384
+qps
+ar 116 116 522
+qps
+qv 26 26 
+atg 48 5484
+ar 48 112 2333
+atg 116 9703
+atg 48 6060
+ag 9703
+dfg 116 9703
+atg 48 7932
+dfg 26 9703
+ap 23 Draven 117
+ag 9958
+ap 80 Orianna 97
+qps
+ag 9669
+ag 8856
+ap 2 Ahri 183
+qps
+ag 7120
+ag 2905
+ar 48 116 443
+ar 116 48 719
+qbs
+qbs
+qbs
+dfg 104 9958
+ar 48 23 993
+qv 48 80 
+ag 2060
+ar 48 48 736
+atg 48 9958
+qv 127 48 
+qbs
+ar 23 2 275
+qbs
+qps
+dfg 116 7120
+qv 2 80 
+qbs
+ap 63 Lillia 94
+qbs
+ar 63 116 621
+atg 63 8856
+ar 23 63 47
+atg 116 2905
+ar 23 48 581
+dfg 2 8856
+qv 80 48 
+ar 2 80 867
+qv 116 23 
+qbs
+atg 2 897
+qps
+ag 4742
+ag 8395
+qv 63 116 
+qbs
+atg 80 4742
+ap 31 Galio 4
+qv 116 26 
+qps
+dfg 2 9669
+ag 5445
+ap 31 err_name 233
+ap 144 Ziggs 119
+qps
+qbs
+qps
+dfg 2 5445
+qbs
+qbs
+ap 93 Riven 122
+ag 7252
+atg 123 9958
+dfg 118 6449
+qv 48 23 
+qv 26 23 
+qv 48 48 
+ap 63 err_name 233
+atg 23 4742
+atg 31 9669
+dfg 80 7120
+ap 81 Ornn 98
+dfg 69 5445
+ag 5949
+ar 116 26 535
+dfg 2 301
+qps
+qv 137 79 
+qv 31 23 
+qv 93 23 
+qbs
+ar 81 48 699
+dfg 116 2060
+dfg 48 5949
+qbs
+qps
+ar 80 23 117
+qbs
+qps
+qbs
+dfg 51 2905
+dfg 26 7120
+ag 7252
+qv 48 81 
+atg 2 7252
+ap 49 Kalista 74
+ag 1160
+ar 20 116 2333
+dfg 2 9958
+qv 48 116 
+ap 110 Swain 193
+ag 597
+ag 2606
+ap 117 Thresh 141
+ap 139 Yorick 198
+qbs
+ap 93 err_name 233
+qps
+atg 30 2060
+ap 7 Anivia 65
+dfg 80 2060
+qbs
+qv 7 49 
+dfg 120 9669
+qbs
+atg 80 9958
+qps
+dfg 108 9703
+ag 318
+dfg 93 5949
+qps
+qbs
+ag 9669
+qbs
+ag 928
+atg 116 3433
+ar 49 110 486
+qv 80 80 
+dfg 7 9669
+dfg 49 7120
+ag 7504
+qbs
+ag 6710
+atg 139 597
+atg 87 5732
+ar 144 2 259
+ap 30 Fizz 117
+qps
+ar 81 93 598
+qps
+atg 76 1505
+qbs
+qv 26 59 
+ar 26 117 308
+qps
+ag 7942
+qbs
+qps
+qbs
+qps
+ag 928
+atg 49 9970
+qps
+ap 59 Kled 176
+dfg 93 5847
+qps
+qps
+ag 4865
+ag 3069
+dfg 78 6710
+qps
+atg 2 8856
+dfg 59 3069
+ar 35 93 2333
+qv 110 30 
+qv 117 26 
+qps
+qps
+dfg 7 7942
+ap 87 Rakan 149
+qbs
+dfg 139 7120
+qps
+qbs
+ag 3718
+qps
+atg 144 7120
+ag 8434
+atg 107 9669
+qv 59 31 
+dfg 49 8856
+qbs
+ag 6033
+ap 82 Pantheon 141
+ag 7677
+atg 66 8856
+qv 81 110 
+qps
+qv 30 116 
+qbs
+qbs
+dfg 82 7252
+ar 139 116 732
+qv 144 2 
+dfg 23 9958
+ar 81 63 854
+atg 63 7252
+ar 60 119 2333
+ap 54 Kayle 131
+ag 3718
+ag 3024
+ar 93 87 697
+ap 17 Camille 52
+qps
+ap 73 Nami 189
+qv 7 117 
+qps
+qps
+ag 8196
+qv 48 63 
+dfg 30 597
+atg 24 4742
+dfg 139 9958
+ap 18 Cassiopeia 159
+ag 795
+ag 5094
+ar 7 26 384
+atg 6 8395
+ar 73 2 54
+ar 139 7 338
+ap 81 err_name 233
+atg 31 7563
+qps
+qbs
+atg 116 795
+qbs
+qv 116 54 
+qbs
+ar 80 23 712
+ap 30 err_name 233
+atg 110 9958
+qv 48 17 
+ap 9 Aphelios 118
+ap 12 Bard 35
+qps
+ap 53 Katarina 15
+ap 146 Zoe 132
+dfg 118 795
+ar 46 18 2333
+ar 89 20 2333
+qps
+qbs
+ap 141 Zac 2
+qbs
+qv 117 146 
+dfg 73 6033
+ar 119 144 2333
+qbs
+qv 23 17 
+ar 26 63 865
+qps
+qv 7 17 
+ap 114 Talon 81
+dfg 23 9703
+ar 23 110 692
+qv 49 87 
+ap 38 Hecarim 138
+qbs
+qv 114 18 
+ar 54 144 51
+qps
+qv 26 146 
+qv 63 146 
+ap 122 Udyr 89
+ar 31 2 494
+dfg 48 3024
+ap 95 Ryze 165
+ap 65 Lucian 160
+ag 453
+qbs
+ap 55 Kayn 102
+ar 59 116 235
+dfg 26 3718
+ag 5038
+ar 13 61 2333
+ap 14 Brand 193
+atg 116 5445
+ag 2223
+ag 4005
+ar 82 81 901
+ar 122 7 231
+qps
+ap 22 Diana 71
+ar 81 65 981
+ap 46 Jhin 161
+atg 23 1009
+ar 49 73 432
+dfg 146 2606
+atg 22 7677
+qv 93 48 
+dfg 65 6710
+qv 146 110 
+ap 71 Mordekaiser 19
+atg 60 7129
+dfg 31 7120
+dfg 141 7120
+dfg 81 4836
+atg 146 4185
+ar 73 26 290
+ag 5971
+dfg 66 6033
+qps
+qps
+atg 90 5038
+qps
+ar 73 93 107
+qv 54 81 
+ar 38 18 420
+atg 54 7677
+ar 102 120 2333
+ap 116 err_name 233
+ag 8395
+dfg 46 453
+dfg 90 8196
+ag 9450
+atg 7 4865
+atg 22 8196
+dfg 82 4865
+qps
+qv 77 122 
+ap 129 Viego 53
+atg 146 6033
+atg 32 3024
+ap 126 Veigar 142
+qps
+atg 31 318
+dfg 65 3024
+qps
+dfg 81 6033
+qps
+ap 126 err_name 233
+atg 86 3024
+ag 5515
+ar 130 139 2333
+qbs
+dfg 53 4742
+ar 31 129 88
+ag 2570
+qps
+ar 48 46 58
+ag 8887
+ar 65 122 690
+ag 5274
+ap 16 Caitlyn 166
+qv 17 114 
+atg 17 440
+dfg 49 795
+atg 79 3024
+qbs
+dfg 16 7504
+qps
+qbs
+dfg 63 8887
+dfg 71 8856
+qbs
+ap 102 Shen 135
+dfg 141 9546
+qps
+qps
+ar 117 93 894
+ag 2146
+atg 120 2570
+dfg 129 2060
+atg 44 2223
+ap 14 err_name 233
+ar 82 26 613
+dfg 30 6282
+qps
+ap 17 err_name 233
+qv 93 49 
+ar 53 14 610
+qv 23 49 
+qv 146 129 
+qbs
+qbs
+atg 26 9450
+ag 5724
+ar 99 88 2333
+ar 63 71 444
+dfg 12 5445
+ar 65 139 489
+dfg 102 7942
+qbs
+qv 122 46 
+ap 57 Kha'zix 192
+ap 95 err_name 233
+qv 38 110 
+ag 831
+qps
+ap 84 Pyke 45
+ap 44 Jax 79
+atg 30 7942
+qps
+qv 73 17 
+qps
+qv 48 44 
+qps
+qv 49 51 
+qbs
+atg 57 795
+atg 123 5038
+qps
+qps
+qv 102 31 
+qps
+ap 72 Morgana 142
+ap 60 Kog'maw 148
+ag 518
+qv 111 114 
+ag 9674
+dfg 131 7677
+ar 128 12 2333
+ag 3319
+qbs
+atg 84 597
+ap 123 Urgot 134
+qv 9 80 
+ap 11 Azir 177
+ar 54 57 288
+dfg 93 8856
+qv 22 59 
+ap 98 Senna 13
+ap 111 Sylas 70
+qps
+qbs
+qbs
+atg 139 9450
+dfg 44 7504
+dfg 102 8460
+qv 46 63 
+ag 7769
+dfg 39 9669
+ar 95 59 785
+dfg 48 2223
+dfg 116 8434
+dfg 84 831
+qps
+atg 57 4005
+ag 3210
+dfg 139 3069
+ar 15 59 2333
+ag 4113
+atg 17 7252
+dfg 93 928
+ag 1113
+dfg 132 7252
+qv 2 126 
+ag 2113
+atg 98 2606
+qbs
+qv 46 11 
+ag 7120
+ap 4 Akshan 160
+ap 133 Warwick 21
+qps
+atg 11 8196
+qbs
+atg 43 9703
+qv 141 111 
+ap 17 err_name 233
+ag 8715
+atg 22 5274
+ag 7265
+dfg 72 7769
+ag 907
+qv 102 48 
+ar 122 146 108
+ap 33 Garen 0
+ap 32 Gangplank 81
+ag 3534
+qps
+ar 71 98 293
+atg 60 2113
+ag 7605
+dfg 26 318
+dfg 14 318
+qps
+dfg 11 1160
+qbs
+ar 82 46 263
+ap 68 Malphite 76
+ag 7650
+qps
+dfg 75 4113
+qbs
+atg 8 907
+ar 38 2 445
+atg 116 7504
+qv 123 23 
+qps
+qv 126 141 
+atg 68 597
+qps
+qv 114 80 
+ar 1 20 2333
+ar 7 7 614
+qps
+ag 4189
+ap 59 err_name 233
+qps
+atg 78 5038
+qv 116 2 
+qbs
+ag 189
+qv 93 18 
+ag 9095
+atg 65 4742
+dfg 98 7265
+qps
+qv 65 49 
+atg 21 7504
+ap 121 Twitch 179
+qps
+ag 7153
+qbs
+atg 11 453
+ap 32 err_name 233
+atg 2 597
+ap 58 Kindred 132
+atg 117 6710
+qps
+qv 60 22 
+atg 73 795
+dfg 114 2060
+qbs
+atg 122 6944
+qv 146 72 
+qv 121 12 
+ar 38 49 521
+ag 831
+qbs
+ag 4212
+ap 43 Janna 78
+atg 18 880
+qv 9 54 
+qbs
+qbs
+qps
+ar 95 11 951
+ag 2699
+qps
+qbs
+qbs
+qv 139 80 
+ag 5436
+ag 9083
+ap 135 Xayah 113
+ar 60 81 772
+atg 129 4649
+qps
+qbs
+qv 60 43 
+ar 33 58 118
+qv 95 2 
+ap 132 Volibear 31
+ag 3993
+ag 5445
+qbs
+qv 84 117 
+ap 41 Irelia 183
+ag 9959
+qps
+dfg 17 3534
+qbs
+qbs
+qv 68 82 
+ar 127 58 2333
+dfg 24 5094
+ag 9579
+qbs
+ag 597
+qv 114 129 
+atg 33 8434
+qv 9 43 
+dfg 57 518
+ag 8787
+ag 2679
+dfg 31 8196
+dfg 55 8003
+qbs
+ag 453
+atg 17 8196
+qv 48 81 
+qbs
+qbs
+ap 39 Heimerdinger 186
+atg 30 1462
+ar 94 43 2333
+ap 71 err_name 233
+qps
+qps
+dfg 5 673
+ag 3319
+dfg 54 9703
+ar 22 110 77
+ar 57 39 193
+qps
+atg 33 1617
+qv 129 116 
+ap 141 err_name 233
+dfg 98 5038
+atg 59 518
+ap 31 err_name 233
+ag 194
+qps
+dfg 22 6437
+dfg 15 2314
+qbs
+ap 101 Shaco 141
+qps
+atg 9 4814
+ap 140 Yuumi 42
+atg 59 4212
+ar 43 55 395
+qv 122 98 
+qps
+ap 80 err_name 233
+qbs
+qps
+ar 135 146 106
+dfg 133 2060
+qbs
+qps
+ag 901
+ap 78 Nocturne 29
+ag 3718
+ap 36 Graves 60
+ag 44
+dfg 49 8293
+qbs
+dfg 8 1287
+qbs
+qbs
+qv 133 60 
+qbs
+ag 722
+qv 57 9 
+qv 73 81 
+ap 50 Karma 23
+ar 60 68 308
+ap 25 Elise 188
+qps
+atg 59 8887
+ar 36 16 6
+qps
+qbs
+qv 121 11 
+dfg 114 1113
+qbs
+qps
+qv 84 93 
+ap 76 Neeko 88
+qv 16 22 
+ap 20 Corki 46
+qv 123 84 
+ar 123 55 815
+qbs
+dfg 50 2146
+qv 144 49 
+ar 60 63 942
+ap 70 Maokai 5
+qv 75 97 
+atg 117 8395
+dfg 1 4189
+ar 139 76 621
+ar 139 65 374
+atg 139 3069
+ap 125 Vayne 90
+qps
+qps
+ar 102 43 2333
+ar 25 125 952
+dfg 71 9579
+ar 78 135 764
+qps
+qv 76 9 
+ag 6625
+atg 119 4865
+ar 146 18 567
+qv 93 20 
+qbs
+qps
+qps
+ag 6971
+dfg 58 2679
+ar 59 17 190
+dfg 114 2679
+ar 146 87 252
+ag 6826
+ag 9276
+ar 78 59 778
+dfg 138 8856
+qbs
+ap 134 Wukong 65
+ag 3999
+ap 138 Yone 63
+qps
+atg 75 453
+dfg 102 3069
+qbs
+dfg 132 8395
+qv 98 87 
+ar 8 25 2333
+qbs
+atg 47 722
+qps
+ag 5593
+qv 60 117 
+qbs
+qps
+ap 147 Zyr 128
+dfg 102 8196
+ar 22 111 153
+qbs
+dfg 84 2905
+atg 38 8856
+atg 29 9959
+ar 84 9 342
+atg 56 6054
+qv 23 20 
+ap 15 Braum 144
+dfg 122 3069
+qps
+qps
+dfg 106 4212
+dfg 98 8887
+ap 127 Vel'koz 53
+ar 43 129 367
+qps
+atg 140 9611
+qps
+qbs
+qv 65 36 
+ap 6 Amumu 196
+qbs
+ar 144 93 948
+ap 42 Ivern 178
+ar 141 87 232
+atg 20 6710
+qbs
+qv 134 63 
+qbs
+qbs
+qps
+qps
+ap 55 err_name 233
+ag 8903
+qbs
+atg 59 3534
+atg 9 518
+ap 123 err_name 233
+dfg 22 7153
+ag 3718
+atg 115 9669
+atg 126 2606
+atg 141 189
+ag 9864
+qv 30 59 
+ag 9180
+ag 1937
+ag 2653
+qv 19 79 
+ar 122 63 226
+qv 71 85 
+ag 7942
+ap 145 Zilean 178
+atg 80 6033
+qbs
+ar 125 17 223
+ap 120 Tryndamere 53
+qv 50 110 
+ap 47 Jinx 26
+ap 22 err_name 233
+dfg 132 1937
+ag 2989
+ap 91 Renekton 178
+qbs
+ap 89 Rek'sai 49
+qv 47 23 
+qv 11 135 
+ar 22 101 636
+qv 66 39 
+qv 78 70 
+atg 7 9959
+qps
+ap 30 err_name 233
+dfg 23 3718
+qbs
+qps
+qps
+atg 16 2606
+qps
+qbs
+dfg 56 4865
+ag 9180
+qbs
+atg 110 4005
+qbs
+ar 84 49 855
+qbs
+qbs
+qps
+ap 35 Gragas 43
+qps
+atg 118 9958
+atg 91 8903
+ap 137 Yasuo 189
+atg 73 4189
+dfg 51 2338
+qv 65 55 
+qps
+dfg 126 9180
+ap 119 Trundle 59
+qv 43 54 
+atg 129 3221
+atg 5 2113
+ar 25 2 2333
+ar 111 31 699
+dfg 26 6710
+qbs
+atg 16 2606
+dfg 84 9959
+ar 6 35 288
+ag 3815
+qps
+dfg 132 8434
+ag 4858
+qv 121 49 
+atg 69 6826
+dfg 45 8787
+ap 3 Akali 28
+ar 71 47 464
+ap 111 err_name 233
+atg 107 2223
+qv 76 139 
+ag 2905
+dfg 134 3999
+dfg 110 6625
+ar 93 26 624
+atg 121 2606
+qv 31 2 
+dfg 39 5445
+ar 53 53 603
+atg 145 5094
+ag 6826
+qbs
+qps
+atg 136 3718
