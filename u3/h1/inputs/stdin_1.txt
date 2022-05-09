@@ -1,0 +1,1000 @@
+atg 226 7656
+ap 121 Viktor 124
+qbs
+ap 172 Genjuros 4
+ar 172 121 488
+qci 121 172 
+dfg 135 5543
+ap 172 errNname 23
+ar 172 172 15
+qci 121 121 
+qbs
+qbs
+ag 3668
+qps
+ar 121 121 680
+qbs
+ar 172 172 233
+qci 172 293 
+qv 172 172 
+qci 172 172 
+ar 121 172 784
+ar 172 121 233
+qci 172 121 
+ap 129 Yone 83
+ar 172 129 233
+qbs
+ap 18 Corki 26
+ap 69 Neeko 4
+ar 129 18 28
+qbs
+ar 129 129 467
+ar 172 129 163
+ap 60 Lulu 140
+ag 3668
+ap 344 Anara 82
+qv 69 18 
+ar 129 69 304
+ag 370
+qbs
+qps
+ar 121 209 233
+qbs
+ar 60 69 52
+ar 129 69 934
+qv 121 18 
+qci 344 129 
+ag 507
+qci 25 33 
+ar 95 121 233
+ag 469
+qbs
+atg 18 507
+ar 69 344 684
+ar 131 252 233
+ar 292 264 233
+qci 60 121 
+qps
+qci 93 129 
+qbs
+ap 344 errNname 23
+ar 95 126 233
+qci 344 344 
+qbs
+qbs
+qci 344 69 
+ar 69 121 556
+ap 322 Dagren 30
+qv 18 69 
+ar 322 172 816
+ar 344 129 129
+dfg 349 2444
+qv 69 344 
+qci 322 60 
+qci 344 322 
+ap 256 Kazil 148
+atg 121 3668
+qps
+qbs
+ar 69 172 930
+ar 18 172 610
+ap 18 errNname 23
+ar 121 69 26
+ar 121 69 339
+ar 18 18 569
+dfg 344 370
+ag 7652
+atg 69 1713
+qbs
+qbs
+qci 121 172 
+qbs
+qci 344 121 
+qbs
+ap 168 Rexxar 139
+qv 129 60 
+ar 69 129 694
+atg 129 5740
+qv 322 18 
+qci 256 121 
+ar 18 322 93
+ar 256 69 119
+ar 168 69 311
+qci 256 172 
+ar 322 69 683
+ar 344 344 504
+qbs
+ar 129 90 233
+qci 172 129 
+qbs
+qbs
+qbs
+atg 172 7652
+ar 344 322 944
+atg 60 9950
+qbs
+ar 18 129 252
+qbs
+qci 129 168 
+qv 18 172 
+atg 60 7652
+ap 67 Nasus 152
+qci 69 129 
+qbs
+ap 344 errNname 23
+ar 121 344 391
+qbs
+qbs
+dfg 97 370
+qbs
+ar 121 256 657
+qbs
+ag 6404
+qbs
+qci 172 129 
+qbs
+qbs
+ar 256 18 853
+qps
+ar 129 168 536
+ap 322 errNname 23
+ar 256 172 233
+ar 256 69 632
+ap 18 errNname 23
+qps
+ag 2556
+qps
+qps
+qbs
+ar 18 344 626
+qbs
+ap 18 errNname 23
+ar 129 69 926
+qci 344 344 
+ap 67 errNname 23
+ar 168 129 32
+qci 60 129 
+qci 322 172 
+qps
+ar 129 322 34
+ar 18 18 710
+ar 60 18 359
+ar 69 67 468
+qbs
+ap 257 Magis 19
+qci 18 172 
+ap 13 Brand 46
+ar 256 172 66
+qci 322 344 
+qv 121 60 
+qbs
+qv 129 69 
+qci 344 132 
+ap 69 errNname 23
+ar 344 257 812
+qbs
+qbs
+dfg 121 7652
+qci 18 69 
+ar 322 121 961
+qbs
+ar 256 366 233
+qbs
+qv 69 168 
+ap 267 Volcanus 189
+qbs
+atg 225 3668
+dfg 143 2556
+qbs
+qci 129 322 
+ar 151 274 233
+qbs
+ar 267 168 121
+qps
+ag 2556
+qci 67 129 
+ar 69 172 272
+qbs
+atg 168 3668
+ap 290 Morbent 87
+dfg 178 507
+ar 277 131 233
+ar 121 290 233
+atg 379 370
+qci 172 290 
+ar 13 290 610
+qv 290 69 
+ar 322 267 376
+ap 233 Nara 66
+ar 275 370 233
+qci 67 256 
+ap 297 Mountain 66
+atg 60 6404
+qbs
+ar 129 69 937
+ar 13 297 758
+ar 67 344 506
+qbs
+ar 256 257 41
+ar 69 67 484
+dfg 22 370
+ap 247 Ven'Gyr 120
+qbs
+ar 290 69 484
+qci 13 129 
+qbs
+qv 60 168 
+ap 116 Vayne 191
+atg 18 2556
+qbs
+ar 69 297 147
+ar 121 129 848
+qbs
+qbs
+ar 18 267 122
+qbs
+ar 172 67 377
+ag 2083
+qci 322 322 
+ap 190 Aldos 75
+dfg 322 507
+qbs
+ar 168 121 313
+qci 256 257 
+atg 247 2083
+ar 322 297 987
+ap 71 Nocturne 29
+qci 71 129 
+ap 338 Zann 191
+ap 187 Tojara 191
+dfg 318 6404
+dfg 267 370
+ar 13 172 844
+qci 172 67 
+qps
+ap 10 Ashe 157
+qps
+ar 267 261 233
+qci 322 322 
+ar 67 290 759
+qci 71 121 
+dfg 379 370
+ar 290 168 76
+ar 338 290 127
+ap 273 Centrius 168
+ar 190 60 961
+ar 67 172 483
+qci 172 257 
+ar 187 168 49
+ar 271 201 233
+atg 131 3668
+ap 121 errNname 23
+ap 154 Landazar 75
+dfg 3 6404
+ar 151 63 233
+qci 247 290 
+qbs
+qps
+atg 267 469
+qci 129 190 
+qv 336 187 
+ap 336 Morlune 189
+qbs
+qci 60 297 
+ag 4643
+qbs
+qci 190 338 
+ar 154 267 553
+qci 67 121 
+ar 257 336 904
+qci 273 256 
+ar 154 233 522
+qci 380 329 
+atg 270 6404
+qbs
+qci 10 168 
+qbs
+ag 4177
+qv 322 336 
+atg 57 2573
+atg 168 3668
+qbs
+ar 233 267 720
+ar 168 67 169
+ap 23 Elise 79
+atg 60 370
+qps
+qci 23 10 
+qci 71 116 
+qci 297 344 
+qbs
+ar 390 376 233
+qbs
+qci 18 129 
+qbs
+ar 336 172 34
+ap 190 errNname 23
+ap 96 Singed 143
+dfg 23 4177
+qbs
+ap 30 Gnar 109
+qci 129 256 
+ap 338 errNname 23
+qbs
+qv 267 290 
+ap 139 Ezzel 121
+qbs
+qps
+qps
+ap 26 Fiora 111
+qci 121 175 
+qps
+ar 336 273 346
+ar 256 154 500
+atg 290 370
+ar 129 290 896
+ap 391 Saithis 187
+qps
+qci 333 377 
+ag 8104
+qci 391 391 
+qci 30 96 
+ar 257 121 457
+ar 26 190 578
+qbs
+ar 247 172 233
+ar 18 256 808
+atg 13 6404
+ar 116 297 893
+ar 26 391 43
+qci 336 67 
+ap 151 Fordred 183
+ag 5306
+qps
+ar 139 336 170
+qci 96 71 
+qps
+qci 338 18 
+qci 307 354 
+qbs
+ap 76 Poppy 22
+qci 256 187 
+ag 7585
+qci 71 338 
+qci 154 154 
+qci 151 30 
+qbs
+qci 267 76 
+qbs
+ar 386 131 233
+qci 10 168 
+ar 116 69 746
+qbs
+dfg 13 7652
+qci 23 154 
+qv 67 256 
+qbs
+qbs
+qci 30 129 
+ag 751
+qci 377 60 
+qci 336 60 
+ap 234 Siren 158
+qci 190 23 
+atg 71 4643
+qci 249 171 
+ar 26 267 981
+qci 139 18 
+qbs
+dfg 256 3703
+ar 10 116 288
+atg 10 4643
+ap 162 Gaz 154
+ar 256 336 33
+qci 190 10 
+qci 256 172 
+qci 26 391 
+ar 25 41 233
+atg 247 2556
+dfg 18 8996
+ar 10 267 756
+qci 60 267 
+ar 190 273 590
+ap 138 Zyr 33
+ap 316 Arius 133
+ap 61 Lux 57
+ap 96 errNname 23
+qv 26 391 
+qbs
+qci 121 71 
+qbs
+ap 96 errNname 23
+qbs
+atg 223 4177
+atg 247 5306
+ar 26 61 22
+ap 106 Talon 16
+qci 161 172 
+ar 190 338 676
+ap 280 Nuada 137
+ap 332 Sten 75
+qci 336 338 
+atg 280 751
+qbs
+ar 344 344 167
+ap 154 errNname 23
+ar 332 13 410
+qbs
+ar 76 162 147
+qbs
+qps
+qbs
+qbs
+ap 124 Warwick 58
+ag 5306
+qci 172 336 
+ar 139 233 209
+qbs
+qbs
+ar 26 60 735
+ar 129 13 751
+ar 316 273 442
+ar 336 13 544
+qbs
+qps
+qci 234 76 
+qbs
+qci 344 154 
+qbs
+qbs
+ar 290 10 924
+qbs
+dfg 187 4177
+qci 96 162 
+dfg 58 2556
+qci 10 129 
+ap 240 Dethecus 198
+ar 190 168 579
+ar 69 233 846
+ar 69 336 688
+qv 30 26 
+ap 156 Nilas 178
+ap 302 Bor 1
+qbs
+qci 247 154 
+qci 233 26 
+ap 262 Thrall 147
+qci 316 267 
+ap 162 errNname 23
+ap 6 Amumu 66
+ar 391 30 476
+ar 81 190 233
+qbs
+dfg 69 469
+ar 106 124 36
+qci 76 76 
+atg 343 507
+ag 9388
+qci 23 71 
+ap 347 Diana 25
+ar 138 233 839
+dfg 338 4643
+ap 172 errNname 23
+ar 61 391 476
+ag 7089
+ar 69 187 229
+ar 223 104 233
+dfg 332 7040
+qci 347 18 
+ar 168 26 779
+ar 26 172 758
+ar 168 6 553
+qci 69 10 
+ap 331 Sir 13
+ap 57 Leona 165
+ar 187 71 942
+ar 347 26 492
+qbs
+ag 5454
+qbs
+ar 316 290 42
+qv 336 26 
+qbs
+ar 121 302 34
+ar 336 6 451
+ar 71 234 28
+qci 138 347 
+atg 354 6672
+qci 338 316 
+qbs
+qci 118 128 
+qbs
+ar 273 338 146
+dfg 6 2083
+qbs
+qbs
+qv 162 290 
+ar 71 276 233
+qci 139 67 
+qbs
+atg 280 5454
+ar 139 115 233
+qbs
+ar 247 280 240
+ar 30 23 230
+qbs
+ap 124 errNname 23
+ar 67 138 772
+ar 331 240 969
+ag 5744
+atg 391 3668
+ap 237 Illidan 104
+ap 110 Tristana 190
+ag 1927
+qbs
+ag 6859
+ar 391 273 524
+ap 182 Mizgill 38
+ag 4805
+dfg 297 4177
+qci 10 336 
+ar 67 23 315
+qci 122 77 
+ar 13 240 733
+ap 14 Braum 5
+qv 279 5 
+dfg 257 5744
+ar 237 151 967
+ar 290 302 961
+qv 344 267 
+qbs
+qci 96 290 
+ap 107 Taric 19
+atg 60 1249
+ap 336 errNname 23
+qci 322 30 
+dfg 143 6859
+ag 7771
+ag 2560
+qbs
+qci 121 107 
+qbs
+ar 154 240 353
+qci 71 162 
+qv 282 168 
+qbs
+qbs
+qci 121 6 
+qbs
+qbs
+ar 71 116 11
+ar 262 190 605
+qbs
+qci 30 10 
+qbs
+ap 11 Azir 8
+qbs
+qci 182 76 
+qbs
+ar 273 297 354
+qps
+ap 114 Urgot 200
+qbs
+ar 297 154 233
+ag 9066
+ar 162 57 694
+qci 297 344 
+qci 391 23 
+ar 124 338 513
+ar 40 132 233
+atg 23 7652
+qbs
+qci 116 332 
+qci 237 338 
+ag 751
+ap 61 errNname 23
+ar 182 190 233
+ap 311 Thordin 69
+qbs
+qbs
+ap 72 Olaf 119
+qps
+ar 267 297 510
+atg 316 8431
+qci 61 322 
+dfg 14 6404
+ar 311 262 325
+dfg 96 4805
+ar 71 124 537
+qci 11 69 
+ap 315 Agamand 67
+ap 316 errNname 23
+ap 20 Diana 183
+ap 71 errNname 23
+qci 114 138 
+ap 284 Araj 154
+qps
+ar 116 322 162
+ap 293 Rage 94
+qci 11 26 
+ar 116 366 233
+qci 240 10 
+ap 242 Fearoth 164
+qps
+dfg 13 6859
+atg 234 7824
+qci 298 236 
+ar 237 72 135
+qbs
+ar 257 280 163
+ap 220 Tam 98
+ap 92 Sett 158
+qbs
+qbs
+ar 13 162 71
+ap 80 Rakan 6
+ar 139 6 233
+ar 172 315 676
+qci 273 57 
+qci 247 198 
+qci 290 154 
+dfg 151 2083
+qci 257 151 
+ar 80 284 445
+ar 297 325 233
+qci 297 23 
+qci 14 262 
+ar 233 233 551
+dfg 375 757
+qci 267 72 
+qbs
+ar 30 336 347
+ar 172 57 565
+ar 138 302 537
+qci 247 256 
+dfg 156 1927
+ar 234 156 317
+ar 138 237 572
+ap 249 Farseer 197
+ag 8701
+ar 293 391 611
+ar 182 96 486
+ar 166 11 233
+ar 335 93 233
+ar 315 280 933
+ar 322 240 61
+ar 284 302 922
+ar 237 76 709
+qbs
+qbs
+qci 266 317 
+ar 344 347 681
+ar 110 114 715
+qci 316 110 
+qbs
+qbs
+qci 249 267 
+qci 220 69 
+qci 26 72 
+ar 80 18 760
+atg 18 4805
+ap 239 Bleakill 119
+ar 187 30 605
+qci 302 156 
+ap 77 Pyke 107
+ap 72 errNname 23
+ar 257 26 957
+qbs
+qci 187 247 
+ag 8523
+qbs
+qv 336 139 
+ap 193 Gilaras 89
+qci 95 237 
+ar 336 193 762
+ar 193 168 543
+qbs
+ar 267 347 372
+ar 331 237 929
+qci 344 193 
+ar 284 240 651
+qci 138 60 
+ar 61 202 233
+ap 366 Jo 197
+ar 267 69 832
+ag 2696
+qci 23 116 
+ar 344 69 233
+ar 293 72 854
+qci 116 315 
+qv 234 262 
+ar 280 14 578
+ag 7690
+qps
+ar 23 114 539
+atg 11 1180
+qbs
+qv 77 267 
+qbs
+ar 383 102 233
+qv 242 336 
+ag 7652
+ap 178 Kigami 121
+qv 92 6 
+dfg 69 2560
+qci 347 182 
+ar 237 316 502
+qbs
+qbs
+qbs
+qps
+qbs
+ag 5403
+ap 265 Kar 128
+qv 18 302 
+qci 190 233 
+qci 262 168 
+qps
+ar 85 187 233
+qbs
+qps
+qci 239 322 
+ag 1514
+qbs
+ar 391 332 511
+qci 332 10 
+ap 73 Orianna 45
+ap 284 errNname 23
+qbs
+qps
+ar 237 107 862
+qbs
+qbs
+qv 154 84 
+qci 315 77 
+ag 4456
+ap 72 errNname 23
+ap 372 Boss 166
+qbs
+qci 124 273 
+qbs
+ar 172 20 7
+qci 347 315 
+qci 338 273 
+ar 391 256 233
+ar 380 34 233
+ag 8409
+qci 265 344 
+qci 121 139 
+ap 268 Keeper 107
+ar 129 316 246
+qps
+ar 296 297 233
+ap 219 Mull 54
+ar 61 332 691
+ar 344 280 299
+ap 273 errNname 23
+ar 391 220 572
+qbs
+qps
+qci 259 72 
+ap 282 Lich 3
+qv 265 315 
+qbs
+qbs
+qci 315 366 
+qci 114 237 
+ap 52 Kha'zix 173
+qbs
+ag 2379
+ar 193 239 850
+ar 168 61 849
+qps
+ar 187 233 923
+qci 110 256 
+ar 366 372 233
+qci 239 219 
+qci 151 114 
+qci 71 72 
+ar 23 319 233
+ar 18 138 216
+ar 257 262 19
+qv 315 311 
+qbs
+qci 76 11 
+ap 91 Senna 105
+ar 219 302 565
+qbs
+ap 128 Yasuo 134
+qv 315 107 
+qps
+qci 240 26 
+qci 67 10 
+qbs
+qci 172 178 
+qps
+ap 127 Xerath 32
+ar 290 336 333
+dfg 139 4933
+qbs
+ap 115 Varus 178
+ap 163 Gish 142
+ap 190 errNname 23
+qbs
+qps
+ar 92 114 9
+qv 13 129 
+qv 129 302 
+ar 187 124 286
+qps
+atg 302 3668
+qci 315 6 
+ar 81 342 233
+qps
+ar 121 178 204
+qci 290 166 
+ar 61 262 325
+qci 67 92 
+qv 237 57 
+atg 30 2560
+ag 7652
+ap 170 Akinos 62
+qbs
+qci 13 367 
+ar 96 77 91
+qbs
+ar 256 332 5
+qbs
+qv 247 91 
+qci 13 322 
+qbs
+qci 249 315 
+ar 114 18 233
+qbs
+ap 242 errNname 23
+qbs
+ag 3767
+qci 182 138 
+qbs
+ar 23 256 175
+qci 372 76 
+ar 128 23 685
+ar 322 271 233
+ar 239 268 143
+ar 316 138 233
+ap 133 Zed 39
+qv 14 20 
+qbs
+ar 256 162 935
+ag 2707
+dfg 284 7690
+ar 107 115 944
+qbs
+qbs
+qci 11 139 
+qbs
+ap 257 errNname 23
+qbs
+qci 106 61 
+qci 265 114 
+qci 219 193 
+dfg 127 7652
+qci 57 237 
+qbs
+ar 284 18 273
+qbs
+qci 168 77 
+qci 72 18 
+atg 376 4456
+qci 215 293 
+ap 173 Gorgosh 79
+qci 302 127 
+ap 282 errNname 23
+ap 111 Trundle 18
+qci 106 316 
+qv 91 77 
+qci 67 138 
+qps
+ar 124 372 671
+qbs
+ap 179 Maim 141
+qci 14 259 
+qbs
+ap 233 errNname 23
+qci 179 326 
+ar 116 107 233
+qbs
+qbs
+qbs
+ar 139 14 349
+qbs
+qci 129 61 
+atg 76 5454
+qbs
+qci 133 284 
+qci 6 240 
+ar 372 139 384
+ap 118 Vel'koz 66
+ap 259 Morg 111
+ag 7366
+ap 363 Ursula 187
+qps
+ag 9050
+qps
+atg 242 469
+qci 69 170 
+qbs
+qbs
+ag 5005
+qci 332 182 
+ag 5306
+ar 347 69 509
+qci 289 300 
+qbs
+ap 238 Algammon 14
+qci 297 168 
+qv 111 233 
+ap 69 errNname 23
+qv 262 69 
+qci 257 168 
+qci 391 306 
+ap 207 Mushi 96
+ap 393 Sira 18
+ar 118 162 658
+ap 177 Khanzo 166
+qbs
+ag 4206
+qci 372 92 
+qps
+qbs
+qci 26 315 
+qci 207 124 
+ar 91 133 511
+ag 5077
+ap 194 Hale 199
+qci 163 256 
+qci 92 332 
+qci 73 233 
+qbs
+qci 26 293 
+qci 139 77 
+ap 184 Nikoro 35
+qci 154 170 
+ar 187 111 489
+ar 164 97 233
+qci 118 302 
+qbs
+qci 268 297 
+qps
+ag 7936
+ar 52 332 952
+ap 312 Thorgas 88
+qci 177 265 
+qbs
+qbs
+qv 72 372 
+qci 177 127 
+atg 332 9388
+ap 337 Uther 115
+dfg 172 2696
+ap 101 Soraka 114
+ar 179 118 215
+qbs
+ap 292 Ordin 178
+ag 7710
+qci 237 233 
+qbs
+ap 392 Shalis 100
+qbs
+qbs
+qci 101 67 
+ar 178 117 233
+ap 84 Renekton 52
+ar 336 14 767
+ap 387 Malice 54
+dfg 26 3479
+ap 203 Jinto 155
+qci 151 332 
+qci 323 129 
+ar 80 138 924
+atg 118 751

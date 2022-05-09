@@ -77,7 +77,7 @@ def ap_i() -> str:
     instr = "ap "
     if len(p_ids) != 0 and re_case():
         r = random.randint(1, len(p_ids))
-        instr = instr + str(p_ids[r-1]) + " err_name 233"
+        instr = instr + str(p_ids[r-1]) + " errNname 23"
     else:
         r = random.randint(1, len(u_ids))
         instr = instr + str(u_ids[r-1]) + " " + names[r-1] + " " + str(random.randint(0, 200))
@@ -97,7 +97,7 @@ def ar_i() -> str:
             else:
                 r = random.randint(1, len(u_ids))
                 instr = instr + str(u_ids[r - 1]) + " "
-        instr = instr + "2333"
+        instr = instr + "233"
     elif len(p_ids) < 2:
         return ap_i()
     else:
@@ -171,7 +171,7 @@ def dfg_i():
 if __name__ == '__main__':
     f = open('stdin.txt', 'w')
     names_init()
-    for i in range(3000):
+    for i in range(1000):
         print(gen_instr(), file=f)
 
 
