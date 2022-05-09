@@ -1,0 +1,29 @@
+----------------Running all code.----------------
+
+------------------Testing 1.jar------------------
+Congratulations! All passengers have arrived.
+------------------1.jar tested------------------
+
+------------------Testing 2.jar------------------
+Congratulations! All passengers have arrived.
+------------------2.jar tested------------------
+
+------------------Testing 3.jar------------------
+Congratulations! All passengers have arrived.
+------------------3.jar tested------------------
+
+------------------Testing 4.jar------------------
+Congratulations! All passengers have arrived.
+------------------4.jar tested------------------
+
+------------------Testing 5.jar------------------
+Congratulations! All passengers have arrived.
+------------------5.jar tested------------------
+
+------------------Testing 6.jar------------------
+Congratulations! All passengers have arrived.
+------------------6.jar tested------------------
+
+------------------Testing 7.jar------------------
+Congratulations! All passengers have arrived.
+------------------7.jar tested------------------
