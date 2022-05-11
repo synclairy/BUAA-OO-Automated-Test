@@ -17,7 +17,9 @@ if __name__ == '__main__':
     correct = True
     for i in range(lmin):
         if ls2[i] != ls1[i]:
-            print("Error in line", i)
+            print("Error in line", i + 1)
+            print(ls1[i])
+            print(ls2[i])
             correct = False
             break
     if lmax != lmin:

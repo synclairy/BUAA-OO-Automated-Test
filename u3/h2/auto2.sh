@@ -1,6 +1,7 @@
-a=1
+a=0
 while [ $a -ne $2 ]
 do
+	a=$[$a+1]
 	python3 social_generate2.py
 	echo '----------Random test data is generated.----------'
 	cat stdin.txt | time java -jar ./xh.jar > stdout1.txt
@@ -11,5 +12,4 @@ do
 	cp stdout2.txt ./outputs/partner/stdout_$a.txt
 	echo "-----------------Test case $a over-----------------"
 	echo "--------------------All stored.--------------------"
-	a=$[$a+1]
 done

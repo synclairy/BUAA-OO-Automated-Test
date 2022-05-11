@@ -238,7 +238,7 @@ def am_i():
         r = random.randint(1, 10000)
         while r in m_ids:
             r = random.randint(1, 10000)
-        instr = instr + str(r) + " " + str(random.randint(-1000, 1000))
+            instr = instr + str(r) + " " + str(random.randint(-1000, 1000))
         if len(p_ids) < 1:
             return ap_i()
         if len(g_ids) < 1:
@@ -295,8 +295,16 @@ def qlc_i():
 if __name__ == '__main__':
     f = open('stdin.txt', 'w')
     uids_init()
-    for i in range(10000):
-        print(gen_instr(), file=f)
+#    for i in range(10000):
+#        print(gen_instr(), file=f)
+    for i in range(10):
+        print(ap_i(), file=f)
+    for i in range(10):
+        print(ar_i(), file=f)
+    print(qlc_i(), file=f)
+    print(qlc_i(), file=f)
+    print(qlc_i(), file=f)
+
 
 
 
