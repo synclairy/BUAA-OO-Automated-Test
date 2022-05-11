@@ -238,7 +238,7 @@ def am_i():
         r = random.randint(1, 10000)
         while r in m_ids:
             r = random.randint(1, 10000)
-            instr = instr + str(r) + " " + str(random.randint(-1000, 1000))
+        instr = instr + str(r) + " " + str(random.randint(-1000, 1000))
         if len(p_ids) < 1:
             return ap_i()
         if len(g_ids) < 1:
