@@ -1,7 +1,7 @@
 a=1
 while [ $a -ne $2 ]
 do
-	python3 social_generate.py
+	python3 social_generate2.py
 	echo '----------Random test data is generated.----------'
 	cat stdin.txt | time java -jar ./xh.jar > stdout1.txt
 	cat stdin.txt | time java -jar ./$1.jar > stdout2.txt
