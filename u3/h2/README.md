@@ -8,9 +8,9 @@ before your test
 
 `mkdir log`
 
-`mkdir outputs\xh`
+`mkdir outputs/xh`
 
-`mkdir outputs\partner`
+`mkdir outputs/partner`
 
 build artifact in IDEA and put your jar into this folder
 

@@ -1,1 +1,7 @@
 .DS_Store
+stdin.txt
+stdout.txt
+buff*.txt
+stdout1.txt
+stdout2.txt
+
