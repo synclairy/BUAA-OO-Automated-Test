@@ -17,6 +17,6 @@ build artifact in IDEA and put your jar into this folder
 #### MacOS/Linux
 `bash auto2.sh your.jar num_of_cases`
 #### Windows(use it in git bash)
-Change pyhon3 in auto2.sh to python
-
+change 'python3' in auto2.sh to 'python'
+remove 'time' in auto.sh
 `bash auto2.sh your.jar num_of_cases`
