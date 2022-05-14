@@ -29,7 +29,7 @@ qci_max = 100
 ag_n = 0
 ag_max = 20
 qlc_n = 0
-qlc_max = 0
+qlc_max = 20
 
 
 def get2(ori):
@@ -153,6 +153,10 @@ def qps_i():
 
 
 def qci_i():
+    global qci_n
+    if qci_n == qci_max:
+        return gen_instr()
+    qci_n = qci_n + 1
     instr = get2("qci ")
     return instr
 
@@ -164,6 +168,10 @@ def qbs_i():
 
 def ag_i():
     instr = "ag "
+    global ag_n
+    if ag_n == ag_max:
+        return gen_instr()
+    ag_n = ag_n + 1
     if len(g_ids) != 0 and re_case():
         r = random.randint(1, len(g_ids))
         instr = instr + str(g_ids[r-1])
@@ -289,13 +297,17 @@ def qrm_i():
 
 
 def qlc_i():
+    global qlc_n
+    if qlc_n == qlc_max:
+        return gen_instr()
+    qlc_n = qlc_n + 1
     return get_p("qlc ")
 
 
 if __name__ == '__main__':
     f = open('stdin.txt', 'w')
     uids_init()
-    for i in range(10000):
+    for i in range(5000):
         print(gen_instr(), file=f)
 
 
