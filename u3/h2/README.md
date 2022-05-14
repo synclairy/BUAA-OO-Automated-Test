@@ -12,13 +12,13 @@ before your test
 
 `mkdir outputs/partner`
 
-build artifact in IDEA and put your jar into this folder
+build artifact in IDEA and put your code.jar into this folder
 
 #### MacOS/Linux
-`bash auto2.sh your.jar num_of_cases`
+`bash auto2.sh code num_of_cases`
 #### Windows(use it in git bash)
 change 'python3' in auto2.sh to 'python'
 
 remove 'time' in auto.sh
 
-`bash auto2.sh your.jar num_of_cases`
+`bash auto2.sh code num_of_cases`
