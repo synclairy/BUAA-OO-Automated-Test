@@ -1,5 +1,5 @@
 ## Unit3 homework11
-### Usage for test your own code
+### Usage for testing your own code
 #### before your test
 
 `mkdir inputs`\
