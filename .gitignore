@@ -4,4 +4,8 @@ stdout.txt
 buff*.txt
 stdout1.txt
 stdout2.txt
+*/*/inputs/*
+*/*/log/*
+*/*/outputs/*
+*/*/hackjars/*
 
