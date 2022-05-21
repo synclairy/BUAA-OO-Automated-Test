@@ -1,11 +1,8 @@
 .DS_Store
-stdin.txt
-stdout.txt
-buff*.txt
-stdout1.txt
-stdout2.txt
+*.txt
 */*/inputs/*
 */*/log/*
 */*/outputs/*
 */*/hackjars/*
-
+*.jar
+!xh.jar
