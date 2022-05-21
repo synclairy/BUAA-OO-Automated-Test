@@ -453,18 +453,7 @@ def qp_i():
 
 
 def dce_i():
-    instr = "dce "
-    if len(em_ids) != 0 and re_case():
-        r = random.randint(1, 10000)
-        while r in em_ids:
-            r = random.randint(1, 10000)
-        instr = instr + str(r) + " " + str(random.randint(1, 30))
-    else:
-        if len(em_ids) == 0:
-            return sei_i()
-        r = random.randint(1, len(em_ids))
-        instr = instr + str(em_ids[r-1]) + " " + str(random.randint(1, 30))
-    return instr
+    instr = "dce " + str(random.randint(0, 5))
 
 
 if __name__ == '__main__':
