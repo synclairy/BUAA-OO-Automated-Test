@@ -364,8 +364,8 @@ def anm_i():
     if len(m_ids) != 0 and re_case():
         r = random.randint(1, len(m_ids))
         instr = instr + str(m_ids[r-1]) + " n_" +  str(r) + " " +  \
-            str(random.randint(0, 1)) + " " + str(random.randint(-1000, 1000)) \
-                 + " " + str(random.randint(-1000, 1000))
+            str(random.randint(0, 1)) + " " + str(random.randint(0, 1000)) \
+                 + " " + str(random.randint(0, 1000))
     else:
         r = random.randint(1, 10000)
         while r in m_ids:
@@ -482,7 +482,7 @@ def qp_i():
 
 def dce_i():
     instr = "dce " + str(random.randint(0, 5))
-
+    return instr
 
 if __name__ == '__main__':
     f = open('stdin.txt', 'w')
