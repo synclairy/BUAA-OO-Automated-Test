@@ -40,7 +40,8 @@ ag_n = 0
 ag_max = 20
 qlc_n = 0
 qlc_max = 20
-
+sim_n = 0
+sim_max = 500
 
 def get2(ori):
     instr = ori
@@ -333,21 +334,43 @@ def qlc_i():
 
 
 def arem_i():
-    return am_i()
+    instr = "arem "
+    if len(m_ids) != 0 and re_case():
+        r = random.randint(1, len(m_ids))
+        instr = instr + str(m_ids[r-1]) + " " +  str(random.randint(0, 200)) + " " +  \
+            str(random.randint(0, 1)) + " " + str(random.randint(0, 200)) \
+                 + " " + str(random.randint(0, 200))
+    else:
+        r = random.randint(1, 10000)
+        while r in m_ids:
+            r = random.randint(1, 10000)
+        instr = instr + str(r) + " " + str(random.randint(0, 200))
+        if len(p_ids) < 1:
+            return ap_i()
+        if len(g_ids) < 1:
+            return ag_i()
+        if random.randint(0, 1) == 0:
+            instr = instr + " 0 " + str(p_ids[random.randint(1, len(p_ids))-1]) \
+                + " " + str(p_ids[random.randint(1, len(p_ids))-1])
+        else:
+            instr = instr + " 1 " + str(p_ids[random.randint(1, len(p_ids))-1]) \
+                + " " + str(g_ids[random.randint(1, len(g_ids))-1])
+        m_ids.append(r)
+    return instr
 
 
 def anm_i():
     instr = "anm "
     if len(m_ids) != 0 and re_case():
         r = random.randint(1, len(m_ids))
-        instr = instr + str(m_ids[r-1]) + " notice_" +  str(r) + " " +  \
+        instr = instr + str(m_ids[r-1]) + " n_" +  str(r) + " " +  \
             str(random.randint(0, 1)) + " " + str(random.randint(-1000, 1000)) \
                  + " " + str(random.randint(-1000, 1000))
     else:
         r = random.randint(1, 10000)
         while r in m_ids:
             r = random.randint(1, 10000)
-        instr = instr + str(r) + " notice_" +  str(r)
+        instr = instr + str(r) + " n_" +  str(r)
         if len(p_ids) < 1:
             return ap_i()
         if len(g_ids) < 1:
@@ -410,6 +433,11 @@ def aem_i():
 
 
 def sim_i():
+    global sim_n
+    instr = "sim "
+    if sim_n == sim_max:
+        return gen_instr()
+    sim_n = sim_n + 1
     instr = "sim "
     if len(m_ids) == 0 or re_case():
         r = random.randint(1, 10000)
