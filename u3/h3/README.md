@@ -17,3 +17,18 @@ change 'python3' in auto3.sh to 'python'\
 remove 'time' in auto3.sh
 
 `bash auto3.sh code num_of_cases`
+
+### Usage for aoe
+
+before your test
+
+`bash aoe_init.sh num_of_tested_jars`\
+put tested artifacts in 'hackjars'
+
+hackjars\
+├── 1.jar\
+├── 2.jar\
+└── 3.jar
+
+### Then slain all of them :)
+`bash code num_of_tested_jars num_of_cases`
