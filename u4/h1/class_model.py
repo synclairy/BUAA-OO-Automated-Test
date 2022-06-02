@@ -27,6 +27,7 @@ class ModelGenerate:
     parameter_num = 0
     element_num = 0
     ls = []
+    c_ids = []
     c2op = []
     f = open('class_model_analysis.txt', 'w')
 
@@ -152,17 +153,20 @@ class ModelGenerate:
         else:
             index = ModelGenerate.class_num
             ModelGenerate.class_num += 1
+        mid = "Class_" + str(index) + "_e" + str(limit.Element.total)
         s = "{" + ModelGenerate._make_parent(class_parent) + \
             ModelGenerate._make_visibility() + \
             ModelGenerate._make_name("Class_" + str(index)) + \
             ModelGenerate._make__type("UMLClass") + \
-            ModelGenerate._make_id("Class_" + str(index), False)
+            ModelGenerate._make_id(mid, False)
+        ModelGenerate.c_ids.append(mid)
         limit.Element.total += 1
         ModelGenerate.ls.append(s)
         ModelGenerate.c2op.append([])
         print("Class_" + str(index) + ":", file=ModelGenerate.f)
         if index > 2 and random.randint(0, 2) == 0:
-            ModelGenerate.make_generation("Class_" + str(index), "Class_" + str(random.randint(0, index - 1)))
+            iii = random.randint(0, ModelGenerate.class_num - 2)
+            ModelGenerate.make_generation(mid, ModelGenerate.c_ids[random.randint(0, len(ModelGenerate.c_ids) - 2)])
         if ModelGenerate.interface_num > 4:
             aaa = []
             t = random.randint(0, ModelGenerate.interface_num - 1)
@@ -171,11 +175,11 @@ class ModelGenerate:
                 while t in aaa:
                     t = random.randint(0, ModelGenerate.interface_num - 1)
                 aaa.append(t)
-                ModelGenerate.make_realization("Class_" + str(index), "Interface_" + str(t))
+                ModelGenerate.make_realization(mid, "Interface_" + str(t))
         for i in range(0, random.randint(0, limit.Element.max_attr)):
-            ModelGenerate.make_attribute("Class_" + str(index))
+            ModelGenerate.make_attribute(mid)
         for i in range(0, random.randint(0, limit.Element.max_op)):
-            ModelGenerate.make_operation(index, "Class_" + str(index))
+            ModelGenerate.make_operation(index, mid)
         print("", file=ModelGenerate.f)
 
 
@@ -208,7 +212,7 @@ class ModelGenerate:
             ModelGenerate._make_visibility() + \
             ModelGenerate._make_name("Attribute_" + str(index)) + \
             ModelGenerate._make__type("UMLAttribute") + \
-            ModelGenerate._make_id("Attribute_" + str(index)) + \
+            ModelGenerate._make_id("Attribute_" + str(index) + "_e" + str(limit.Element.total)) + \
             ModelGenerate._make_type(t, False)
         print("    Attribute_" + str(index) + ": " + str(t), file=ModelGenerate.f)
         ModelGenerate.attribute_num += 1
@@ -229,14 +233,14 @@ class ModelGenerate:
             ModelGenerate._make_visibility() + \
             ModelGenerate._make_name("Operation_" + str(index)) + \
             ModelGenerate._make__type("UMLOperation") + \
-            ModelGenerate._make_id("Operation_" + str(index), False)
+            ModelGenerate._make_id("Operation_" + str(index) + "_e" + str(limit.Element.total), False)
         print("    Operation_" + str(index) + ":", file=ModelGenerate.f)
         limit.Element.total += 1
         ModelGenerate.c2op[ind].append(index)
         ModelGenerate.ls.append(s)
         for i in range(random.randint(0, 4)):
-            ModelGenerate.make_parameter("Operation_" + str(index))
-        ModelGenerate.make_parameter("Operation_" + str(index), "return")
+            ModelGenerate.make_parameter("Operation_" + str(index) + "_e" + str(limit.Element.total))
+        ModelGenerate.make_parameter("Operation_" + str(index) + "_e" + str(limit.Element.total), "return")
 
     @staticmethod
     def make_generation(pid, ppid):
