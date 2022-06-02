@@ -9,7 +9,7 @@
 `mkdir outputs/xh`\
 `mkdir outputs/partner`\
 or\
-'make setup'
+`make setup`
 
 build artifact in IDEA and put your code.jar into this folder
 
