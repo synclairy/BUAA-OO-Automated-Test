@@ -148,11 +148,13 @@ class ModelGenerate:
 
     @staticmethod
     def make_class():
-        if ModelGenerate.er_case():
-            index = random.randint(0, ModelGenerate.class_num)
+        if ModelGenerate.er_case() and ModelGenerate.class_num > 1:
+            print("@duplicate", file=ModelGenerate.f)
+            index = random.randint(0, ModelGenerate.class_num - 1)
         else:
             index = ModelGenerate.class_num
             ModelGenerate.class_num += 1
+            ModelGenerate.c2op.append([])
         mid = "Class_" + str(index) + "_e" + str(limit.Element.total)
         s = "{" + ModelGenerate._make_parent(class_parent) + \
             ModelGenerate._make_visibility() + \
@@ -162,7 +164,6 @@ class ModelGenerate:
         ModelGenerate.c_ids.append(mid)
         limit.Element.total += 1
         ModelGenerate.ls.append(s)
-        ModelGenerate.c2op.append([])
         print(mid + ":", file=ModelGenerate.f)
         if index > 2 and random.randint(0, 2) == 0:
             iii = random.randint(0, ModelGenerate.class_num - 2)
@@ -200,7 +201,8 @@ class ModelGenerate:
         for i in range(0, random.randint(0, limit.Element.max_attr)):
             ModelGenerate.make_attribute("Interface_" + str(index))
         for i in range(0, random.randint(0, limit.Element.max_op)):
-            ModelGenerate.make_operation(index, "Interface_" + str(index))
+            if len(ModelGenerate.c2op) > 1:
+                ModelGenerate.make_operation(random.randint(0, len(ModelGenerate.c2op)-1), "Interface_" + str(index))
         ModelGenerate.ls.append(s)
         print("", file=ModelGenerate.f)
 
