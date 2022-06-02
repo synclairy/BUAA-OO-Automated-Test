@@ -8,7 +8,7 @@
 `mkdir log`\
 `mkdir outputs/xh`\
 `mkdir outputs/partner`\
-or
+or\
 'make setup'
 
 build artifact in IDEA and put your code.jar into this folder
@@ -16,8 +16,8 @@ build artifact in IDEA and put your code.jar into this folder
 #### MacOS/Linux
 `bash auto1.sh code num_of_cases`
 #### Windows(use it in git bash)
-change 'python3' in auto3.sh to 'python'\
-remove 'time' in auto3.sh
+change 'python3' in auto1.sh to 'python'\
+remove 'time' in auto1.sh
 
 `bash auto1.sh code num_of_cases`
 
