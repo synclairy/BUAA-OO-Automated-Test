@@ -120,7 +120,7 @@ class ModelGenerate:
     def _random_basic(isin):
         i = 0
         if ModelGenerate.class_num != 0 and random.randint(0, 1) == 0:
-            return ref_s + "ID_" + str(random.randint(0, ModelGenerate.class_num - 1)) + _end_s
+            return ref_s + "ID_" + ModelGenerate.c_ids[random.randint(0, len(ModelGenerate.c_ids) - 1)] + _end_s
         if isin:
             i = random.randint(0, 8)
         else:
@@ -163,7 +163,7 @@ class ModelGenerate:
         limit.Element.total += 1
         ModelGenerate.ls.append(s)
         ModelGenerate.c2op.append([])
-        print("Class_" + str(index) + ":", file=ModelGenerate.f)
+        print(mid + ":", file=ModelGenerate.f)
         if index > 2 and random.randint(0, 2) == 0:
             iii = random.randint(0, ModelGenerate.class_num - 2)
             ModelGenerate.make_generation(mid, ModelGenerate.c_ids[random.randint(0, len(ModelGenerate.c_ids) - 2)])
