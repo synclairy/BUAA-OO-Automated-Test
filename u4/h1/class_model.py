@@ -229,18 +229,19 @@ class ModelGenerate:
             index = ModelGenerate.operation_num
         if random.randint(0, 2) == 0:
             ModelGenerate.operation_num += 1
+        mid = "Operation_" + str(index) + "_e" + str(limit.Element.total)
         s = "{" + ModelGenerate._make_parent(pid) + \
             ModelGenerate._make_visibility() + \
             ModelGenerate._make_name("Operation_" + str(index)) + \
             ModelGenerate._make__type("UMLOperation") + \
-            ModelGenerate._make_id("Operation_" + str(index) + "_e" + str(limit.Element.total), False)
+            ModelGenerate._make_id(mid, False)
         print("    Operation_" + str(index) + ":", file=ModelGenerate.f)
         limit.Element.total += 1
         ModelGenerate.c2op[ind].append(index)
         ModelGenerate.ls.append(s)
         for i in range(random.randint(0, 4)):
-            ModelGenerate.make_parameter("Operation_" + str(index) + "_e" + str(limit.Element.total))
-        ModelGenerate.make_parameter("Operation_" + str(index) + "_e" + str(limit.Element.total), "return")
+            ModelGenerate.make_parameter(mid)
+        ModelGenerate.make_parameter(mid, "return")
 
     @staticmethod
     def make_generation(pid, ppid):
