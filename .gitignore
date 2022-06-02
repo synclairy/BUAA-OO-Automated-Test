@@ -6,3 +6,4 @@
 */*/hackjars/*
 *.jar
 !xh.jar
+*/*/__pycache__/*
