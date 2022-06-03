@@ -164,7 +164,7 @@ class ModelGenerate:
         ModelGenerate.c_ids.append(mid)
         limit.Element.total += 1
         ModelGenerate.ls.append(s)
-        print(mid + ":", file=ModelGenerate.f)
+        print("Class_" + str(index) + ": ID = " + mid, file=ModelGenerate.f)
         if index > 2 and random.randint(0, 2) == 0:
             iii = random.randint(0, ModelGenerate.class_num - 2)
             ModelGenerate.make_generation(mid, ModelGenerate.c_ids[random.randint(0, len(ModelGenerate.c_ids) - 2)])
@@ -189,10 +189,10 @@ class ModelGenerate:
         index = ModelGenerate.interface_num
         s = "{" + ModelGenerate._make_parent(interface_parent) + \
             ModelGenerate._make_visibility() + \
-            ModelGenerate._make_name("Interface_" + str(index)) + \
+            ModelGenerate._make_name("Class_" + str(index)) + \
             ModelGenerate._make__type("UMLInterface") + \
             ModelGenerate._make_id("Interface_" + str(index), False)
-        print("Interface_" + str(index) + ":", file=ModelGenerate.f)
+        print("Class_" + str(index) + ": ID = Interface_" + str(index), file=ModelGenerate.f)
         ModelGenerate.interface_num += 1
         limit.Element.total += 1
         if index > 2 and random.randint(0, 1) == 0:
