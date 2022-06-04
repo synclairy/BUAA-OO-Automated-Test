@@ -119,8 +119,10 @@ class ModelGenerate:
     @staticmethod
     def _random_basic(isin):
         i = 0
-        if ModelGenerate.class_num != 0 and random.randint(0, 1) == 0:
+        if ModelGenerate.class_num != 0 and random.randint(0, 2) == 0:
             return ref_s + "ID_" + ModelGenerate.c_ids[random.randint(0, len(ModelGenerate.c_ids) - 1)] + _end_s
+        elif ModelGenerate.interface_num != 0 and random.randint(0, 1) == 0:
+            return ref_s + "ID_Interface_" + str(random.randint(0, ModelGenerate.interface_num - 1)) + _end_s
         if isin:
             i = random.randint(0, 8)
         else:
