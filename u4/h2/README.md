@@ -27,12 +27,13 @@ before your test
 
 ```
 mkdir hackjars
-mkdir hackjars/1
-mkdir hackjars/2
-...
 mkdir outputs/0
 mkdir outputs/1
 mkdir outputs/2
+...
+mkdir log/0
+mkdir log/1
+mkdir log/2
 ...
 ```
 
