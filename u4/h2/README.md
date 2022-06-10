@@ -5,6 +5,7 @@
 `mkdir inputs`\
 `mkdir outputs`\
 `mkdir log`\
+`mkdir analysis`\
 `mkdir outputs/xh`\
 `mkdir outputs/partner`\
 or\

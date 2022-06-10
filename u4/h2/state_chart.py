@@ -24,6 +24,7 @@ tran_num = 0
 event_num = 0
 ids = []
 f = open('stdin.txt', 'w')
+f1 = open('analysis.txt', 'w')
 
 
 def make_parent(pid, with_sep = True):
@@ -101,6 +102,7 @@ def make_final():
         make_id('FinalState' + str(index), False)
     ids.append('ID_FinalState' + str(index))
     print(s, file=f)
+    print('Final: FinalState' + str(index), file=f1)
 
 
 def make_transition():
@@ -126,6 +128,11 @@ def make_transition():
     for i in range(random.randint(0, random.randint(1, 2))):
         make_event('Transition' + str(index))
     print(s, file=f)
+
+    print('edge: ' + polish(id1) + ' ---> ' + polish(id2), file=f1)
+
+def polish(s):
+    return s.replace('ID_State', 'S')
 
 
 def make_event(pid):
@@ -159,6 +166,7 @@ if __name__ == '__main__':
     ls.append('{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine1","_type":"UMLStateMachine","_id":"ID_StateMachine"}')
     ls.append('{"_parent":"ID_StateMachine","visibility":"public","name":null,"_type":"UMLRegion","_id":"ID_Region"}')
     ls.append('{"_parent":"ID_Region","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"ID_InitialState"}')
+    print('Init: InitialState', file=f1)
     ids.append('ID_InitialState')
     for l in ls:
         print(l, file=f)
