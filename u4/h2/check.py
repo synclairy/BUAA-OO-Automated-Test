@@ -1,14 +1,17 @@
 
+import encodings
+
+
 if __name__ == '__main__':
     infile1 = r'stdout1.txt'
     infile2 = r'stdout2.txt'
     ls1 = []
     ls2 = []
-    with open(infile1, encoding='utf-8') as fr:
+    with open(infile1, encoding='utf-8', errors='ignore') as fr:
         for line in fr:
             ls1.append(line[0:-1])
 
-    with open(infile2, encoding='utf-8') as fr:
+    with open(infile2, encoding='utf-8', errors='ignore') as fr:
         for line in fr:
             ls2.append(line[0:-1])
 
