@@ -132,7 +132,12 @@ def make_transition():
     print('edge: ' + polish(id1) + ' ---> ' + polish(id2), file=f1)
 
 def polish(s):
-    return s.replace('ID_State', 'S')
+    if 'ID_State' in s:
+        return s.replace('ID_State', 'S_')
+    elif 'ID_FinalState' in s:
+        return s.replace('ID_FinalState', 'Final_')
+    else:
+        return s.replace('ID_InitialState', 'Init')
 
 
 def make_event(pid):
