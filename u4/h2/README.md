@@ -1,10 +1,9 @@
-## Unit4 homework13
+## Unit4 homework14
 ### Usage for testing your own code
 #### before your test
 
 `mkdir inputs`\
 `mkdir outputs`\
-`mkdir analysis`\
 `mkdir log`\
 `mkdir outputs/xh`\
 `mkdir outputs/partner`\
@@ -14,9 +13,9 @@ or\
 build artifact in IDEA and put your code.jar into this folder
 
 #### MacOS/Linux
-`bash auto1.sh code num_of_cases`
+`bash auto2.sh code num_of_cases`
 #### Windows(use it in git bash)
-change 'python3' in auto1.sh to 'python'\
-remove 'time' in auto1.sh
+change 'python3' in auto2.sh to 'python'\
+remove 'time' in auto2.sh
 
-`bash auto1.sh code num_of_cases`
+`bash auto2.sh code num_of_cases`
