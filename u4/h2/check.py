@@ -1,7 +1,4 @@
 
-import encodings
-
-
 if __name__ == '__main__':
     infile1 = r'stdout1.txt'
     infile2 = r'stdout2.txt'
